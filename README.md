@@ -1,4 +1,4 @@
-# chat-project
+# chat-project-with-socket-nodejs
 
 ## Project setup
 ```
@@ -7,12 +7,14 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+cd build
+npm run start 
 ```
 
 ### Compiles and minifies for production
 ```
 npm run build
+then move dist folder to build dir 
 ```
 
 ### Lints and fixes files
